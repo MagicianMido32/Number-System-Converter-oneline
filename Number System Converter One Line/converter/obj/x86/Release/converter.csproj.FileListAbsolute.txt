@@ -1,0 +1,14 @@
+C:\Users\medot\Desktop\cnvrt oneline\converter\converter\bin\Release\converter.exe
+C:\Users\medot\Desktop\cnvrt oneline\converter\converter\bin\Release\converter.pdb
+C:\Users\medot\Desktop\cnvrt oneline\converter\converter\obj\x86\Release\WindowsFormsApplication1.Form1.resources
+C:\Users\medot\Desktop\cnvrt oneline\converter\converter\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\medot\Desktop\cnvrt oneline\converter\converter\obj\x86\Release\converter.csproj.GenerateResource.Cache
+C:\Users\medot\Desktop\cnvrt oneline\converter\converter\obj\x86\Release\converter.exe
+C:\Users\medot\Desktop\cnvrt oneline\converter\converter\obj\x86\Release\converter.pdb
+C:\Users\medot\Desktop\Completed\cnvrt oneline\converter\converter\bin\Release\converter.exe
+C:\Users\medot\Desktop\Completed\cnvrt oneline\converter\converter\bin\Release\converter.pdb
+C:\Users\medot\Desktop\Completed\cnvrt oneline\converter\converter\obj\x86\Release\WindowsFormsApplication1.Form1.resources
+C:\Users\medot\Desktop\Completed\cnvrt oneline\converter\converter\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\medot\Desktop\Completed\cnvrt oneline\converter\converter\obj\x86\Release\converter.csproj.GenerateResource.Cache
+C:\Users\medot\Desktop\Completed\cnvrt oneline\converter\converter\obj\x86\Release\converter.exe
+C:\Users\medot\Desktop\Completed\cnvrt oneline\converter\converter\obj\x86\Release\converter.pdb

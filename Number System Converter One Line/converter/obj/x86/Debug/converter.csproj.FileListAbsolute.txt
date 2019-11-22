@@ -1,0 +1,48 @@
+C:\Users\medot\Desktop\converter\converter\bin\Debug\converter.exe
+C:\Users\medot\Desktop\converter\converter\bin\Debug\converter.pdb
+C:\Users\medot\Desktop\converter\converter\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\medot\Desktop\converter\converter\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\medot\Desktop\converter\converter\obj\x86\Debug\converter.csproj.GenerateResource.Cache
+C:\Users\medot\Desktop\converter\converter\obj\x86\Debug\converter.exe
+C:\Users\medot\Desktop\converter\converter\obj\x86\Debug\converter.pdb
+C:\Users\medot\Desktop\converter\converter\obj\x86\Debug\converter.csprojResolveAssemblyReference.cache
+C:\Users\medot\Desktop\cnvrt ll\converter\converter\obj\x86\Debug\converter.exe
+C:\Users\medot\Desktop\cnvrt ll\converter\converter\obj\x86\Debug\converter.pdb
+C:\Users\medot\Desktop\cnvrt ll\converter\converter\obj\x86\Debug\converter.csprojResolveAssemblyReference.cache
+C:\Users\medot\Desktop\cnvrt ll\converter\converter\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\medot\Desktop\cnvrt ll\converter\converter\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\medot\Desktop\cnvrt ll\converter\converter\obj\x86\Debug\converter.csproj.GenerateResource.Cache
+C:\Users\medot\Desktop\cnvrt ll\converter\converter\bin\Debug\converter.exe
+C:\Users\medot\Desktop\cnvrt ll\converter\converter\bin\Debug\converter.pdb
+C:\Users\medot\Desktop\cnvrt ll - Copy\converter\converter\obj\x86\Debug\converter.exe
+C:\Users\medot\Desktop\cnvrt ll - Copy\converter\converter\obj\x86\Debug\converter.pdb
+C:\Users\medot\Desktop\Completed\cnvrt ll - Copy\converter\converter\obj\x86\Debug\converter.exe
+C:\Users\medot\Desktop\Completed\cnvrt ll - Copy\converter\converter\obj\x86\Debug\converter.pdb
+C:\Users\medot\Desktop\Completed\cnvrt ll - Copy\converter\converter\bin\Debug\converter.exe
+C:\Users\medot\Desktop\Completed\cnvrt ll - Copy\converter\converter\bin\Debug\converter.pdb
+C:\Users\medot\Desktop\Completed\cnvrt ll - Copy\converter\converter\obj\x86\Debug\converter.csprojResolveAssemblyReference.cache
+C:\Users\medot\Desktop\Completed\cnvrt ll - Copy\converter\converter\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\medot\Desktop\Completed\cnvrt ll - Copy\converter\converter\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\medot\Desktop\Completed\cnvrt ll - Copy\converter\converter\obj\x86\Debug\converter.csproj.GenerateResource.Cache
+C:\Users\medot\Desktop\cnvrt ll - Copy\converter\converter\bin\Debug\converter.exe
+C:\Users\medot\Desktop\cnvrt ll - Copy\converter\converter\bin\Debug\converter.pdb
+C:\Users\medot\Desktop\cnvrt ll - Copy\converter\converter\obj\x86\Debug\converter.csprojResolveAssemblyReference.cache
+C:\Users\medot\Desktop\cnvrt ll - Copy\converter\converter\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\medot\Desktop\cnvrt ll - Copy\converter\converter\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\medot\Desktop\cnvrt ll - Copy\converter\converter\obj\x86\Debug\converter.csproj.GenerateResource.Cache
+C:\Users\medot\Desktop\cnvrt oneline\converter\converter\obj\x86\Debug\converter.exe
+C:\Users\medot\Desktop\cnvrt oneline\converter\converter\obj\x86\Debug\converter.pdb
+C:\Users\medot\Desktop\cnvrt oneline\converter\converter\bin\Debug\converter.exe
+C:\Users\medot\Desktop\cnvrt oneline\converter\converter\bin\Debug\converter.pdb
+C:\Users\medot\Desktop\cnvrt oneline\converter\converter\obj\x86\Debug\converter.csprojResolveAssemblyReference.cache
+C:\Users\medot\Desktop\cnvrt oneline\converter\converter\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\medot\Desktop\cnvrt oneline\converter\converter\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\medot\Desktop\cnvrt oneline\converter\converter\obj\x86\Debug\converter.csproj.GenerateResource.Cache
+C:\Users\medot\Desktop\Completed\cnvrt oneline\converter\converter\obj\x86\Debug\converter.exe
+C:\Users\medot\Desktop\Completed\cnvrt oneline\converter\converter\obj\x86\Debug\converter.pdb
+C:\Users\medot\Desktop\Completed\cnvrt oneline\converter\converter\bin\Debug\converter.exe
+C:\Users\medot\Desktop\Completed\cnvrt oneline\converter\converter\bin\Debug\converter.pdb
+C:\Users\medot\Desktop\Completed\cnvrt oneline\converter\converter\obj\x86\Debug\converter.csprojResolveAssemblyReference.cache
+C:\Users\medot\Desktop\Completed\cnvrt oneline\converter\converter\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\medot\Desktop\Completed\cnvrt oneline\converter\converter\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\medot\Desktop\Completed\cnvrt oneline\converter\converter\obj\x86\Debug\converter.csproj.GenerateResource.Cache
